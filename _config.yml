@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: PizzaFactory/Contorno
+logo: /assets/img/logo.png
+description: The side dish container collection for Eclipse/Che7.
+show_downloads: false
+google_analytics: UA-135551325-4
