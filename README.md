@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Goal
 
-You can use the [editor on GitHub](https://github.com/pizzafactory-contorno/pizzafactory-contorno.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+PizzaFactory/Contorno provides resources for [Eclipse/Che](https://eclipse.org/che)7. like:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Dockerfiles that build images for a side car container in Eclipse/Che7 workspaces.
+* Che-Theia plugins and meta files.
+* `devfile.yaml` for example.
 
-### Markdown
+## Parent project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project is a sub project of [PizzaFactory](https://www.pizzafactory.jp/).
 
-```markdown
-Syntax highlighted code block
+## How to Contribute.
 
-# Header 1
-## Header 2
-### Header 3
+Please send pull request to each repositories if you want patch them.
+We requires "Eclipse Contributor Agreement" to all patch authors.
+The rule is same as [Eclipse/Che's one](https://github.com/eclipse/che/wiki/Eclipse-Contributor-Agreement).
 
-- Bulleted
-- List
+Your sponsorship by your credit card is also welcome. You will find out the button for GitHub Sponsor on the top of repository pages. The project lead's donation page is [https://github.com/sponsors/monaka](https://github.com/sponsors/monaka)
 
-1. Numbered
-2. List
+## FAQ
 
-**Bold** and _Italic_ and `Code` text
+### What's _Contorno_ ?
 
-[Link](url) and ![Image](src)
-```
+_contorno_ means _side dish_ in Italian. The main dish is Eclipse/Che7.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Can you add new support for my favorite smart contract ?
 
-### Jekyll Themes
+Sometimes we rises crowdfunding event.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pizzafactory-contorno/pizzafactory-contorno.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [Tool support for IOST blockchain](https://btcpay.c.pizzafactory.jp/apps/3jg29cGvn6D8LRNUvAixLZ3DxasB/crowdfund)
+* [Tool support for EOSIO blockchain](https://btcpay.c.pizzafactory.jp/apps/2EvXjrUtsqByJPfDwB3HheMJMaPT/crowdfund)
 
-### Support or Contact
+Please [ask us](mailto:sales@pizzafactory.jp) for more details if you want to rise similar event for your favorite blockchain.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Are there Che7 hosting services on the Net ?
+
+AFAIK, there is two hosting services avaiable.
+
+* https://che.openshift.io/ (privieded by Red Hat).
+* https://camino.pizzafactory.jp/ (provided by [Monami-ya LLC, Japan](https://www.monami-ya.com)).
+
+### Can I get technical supports ?
+
+Please visit [Our gitter room](https://gitter.im/PizzaFactory/community-support) if your request have no confidential information.
+In otherwise cases, please [contact us](sales@pizzafactory.jp).
