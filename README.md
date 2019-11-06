@@ -43,4 +43,4 @@ AFAIK, there is two hosting services avaiable.
 ### Can I get technical supports ?
 
 Please visit [Our gitter room](https://gitter.im/PizzaFactory/community-support) if your request have no confidential information.
-In otherwise cases, please [contact us](sales@pizzafactory.jp).
+In otherwise cases, please [contact us](mailto:sales@pizzafactory.jp).
